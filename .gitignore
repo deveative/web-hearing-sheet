@@ -1,0 +1,15 @@
+__MACOSX
+
+# common
+*~
+*.bak
+.idea
+.svn
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# for gulp
+node_modules
+npm-debug.log
+package-lock.json
